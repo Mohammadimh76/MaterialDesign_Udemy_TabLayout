@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UdemyTabLayout</string>
+
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="nine">nine</string>
+    <string name="eigth">eigth</string>
+    <string name="ten">ten</string>
+
+    <string name="recents">recents</string>
+    <string name="favorites">favorites</string>
+    <string name="nearby">nearby</string>
+</resources>
